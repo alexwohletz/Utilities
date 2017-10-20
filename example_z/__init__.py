@@ -1,0 +1,1 @@
+from example_z import joke
